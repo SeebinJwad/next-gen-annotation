@@ -10,3 +10,8 @@ Annotate genomic sequences with the python package or built-in graphical user in
 
 NGA is useful for quickly and accurately analyzing a big data genomic sequence file. It annotates genomic sequences across a wide array of available databases. The files can be inputted as .vcf or .txt. The program does not alter the original file, instead it replicates the file and outputs it as an annotated document with the filename suffix '_nga_multianno'.
 
+
+
+
+notes to self
+create 4 columns for number comparison because smallest number (start+end+ref+alt) is 0 start 0 end and . ref . alt which is 4646 bc ascii for . is 46
